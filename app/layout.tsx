@@ -8,8 +8,8 @@ import "./globals.css";
 import { ThemeProvider } from "@/providers/theme-providers";
 
 export const metadata: Metadata = {
-  title: "Topmart Admin",
-  description: "The adminstrator dashboard for the Topmart store project",
+  title: "Earl's Bistro Admin",
+  description: "The inventory management utility for Earl's Bistro",
 };
 
 export default function RootLayout({
